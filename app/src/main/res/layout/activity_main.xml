@@ -23,7 +23,7 @@
         android:id="@+id/textView"
         android:layout_width="79dp"
         android:layout_height="21dp"
-        android:text="Hello World!"
+        android:text="Nice to meet you!"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
